@@ -38,12 +38,57 @@ Problem sets are assigned each Wednesday (except during weeks before tests) and 
 Grading
 -------
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 25% |
-| Quiz 1 | 20% |
-| Quiz 2 | 20% |
-| Quiz 3 | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Doctoral Qualifying Exam
 ------------------------
