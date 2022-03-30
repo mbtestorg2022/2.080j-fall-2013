@@ -26,7 +26,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_2.002 Mechanics and Materials II_](/courses/2-002-mechanics-and-materials-ii-spring-2004/)
+[_2.002 Mechanics and Materials II_](/courses/2-002-mechanics-and-materials-ii-spring-2004)
 
 ### Requirements Satisfied
 
